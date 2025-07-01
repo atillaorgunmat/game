@@ -1,0 +1,9 @@
+#Game Vision
+
+Mystery Minds is a **scenario-driven investigation game for two or more human players (minimum two) guided by an impartial AI Supporter.
+Each session focuses on a single, time-boxed objective: uncover — or successfully obscure — the root cause of a complex incident before the 20-minute timer expires.
+At the start of every game one human is randomly assigned Winner (Player), the other Loser (Player); any additional humans join the Winner’s side as Investigators while the Supporter (AI) provides hints, data panels, and consensus prompts to all players.
+
+Gameplay unfolds in four clearly sign-posted phases (Initial Reveal → Team Analysis & Hypothesis → RCA Verification → Final Submission). Each phase branches only by the players’ choices yet always converges on a single end-state: a validated Root-Cause Report or a failed/contested submission.
+
+Before play, Winner and Loser each draft two skills from a restricted pool of five; these selections materially reshape clue flow, debate dynamics, and win conditions. Coupled with the AI’s adaptive breadcrumb and contradiction systems, the design guarantees replayable mystery while staying laser-focused on three core player experiences: continuous Curiosity, enforced Collaboration, and rigorous Root-Cause Analysis (see pillar-feature map).

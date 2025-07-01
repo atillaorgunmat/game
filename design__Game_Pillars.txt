@@ -1,0 +1,36 @@
+# Game Pillars 
+
+Curiosity Pillar Definition:
+"Players experience continuous curiosity through carefully timed AI-driven hints, deliberate contradictions introduced by the Loser player, and partial information reveals that compel active exploration, critical questioning, and ongoing validation of discovered clues."
+
+Features explicitly included:
+
+Contradiction Cards (Player-driven: Loser)
+
+Sequential Curiosity Reveal System (Player-driven: Winner-selected / AI fallback)
+
+Adaptive Breadcrumb System (Fully AI-mediated)
+
+
+Collaboration Pillar Definition:
+"Collaboration is driven explicitly by AI-managed information reveals and structured communication phases, requiring human players (Winner & Loser) to actively share insights, debate evidence, and collectively validate the final Root-Cause Report."
+
+Features explicitly included:
+
+Role-Specific Information Panels (AI auto-unlock)
+
+Mandatory Communication Phases (AI-prompted)
+
+Team Consensus Mechanism (AI-moderated popup)
+
+
+Root-Cause Analysis Pillar Definition:
+"Players perform structured root-cause analysis by systematically mapping evidence onto an AI-assisted Fault-Tree Interface, verifying hypotheses at critical checkpoints, and managing analysis within a strictly enforced 20-minute scenario timer."
+
+Features explicitly included:
+
+RCA Fault-Tree Mapping Interface (Player input with AI validation)
+
+Hypothesis Registration & Evidence Verification (Player-driven skill, AI-supported)
+
+Scenario Runtime Cap & Fail-Forward Ending (AI-enforced)

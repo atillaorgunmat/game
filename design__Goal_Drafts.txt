@@ -1,0 +1,27 @@
+Winner (Player)
+“At scenario start, select exactly 2 abilities from the 5-skill Winner pool.
+You win the game when, before the 20-minute scenario timer expires, you submit a validated Root-Cause Report through the RCA Fault-Tree Interface and the AI Supporter’s Team-Consensus Popup confirms your analysis.
+Your chosen skills may accelerate clue flow (Trigger Sequential Reveal), tighten verification (Register Hypothesis Checkpoint), or strengthen consensus control (Initiate Team Consensus). Use them wisely to map every cause, marshal Supporter data, and out-think the Loser’s contradictions.” 
+
+
+Loser (Player)
+“At scenario start, draft exactly 2 abilities from the 5-skill Loser pool.
+You win the game if, before the 20-minute scenario timer expires, you achieve any one of these victory states:
+
+Confusion Victory: Introduce three (3) AI-accepted Contradiction Cards that the Winner fails to resolve, leaving the root-cause map inconsistent.
+
+Misdiagnosis Victory: Force the Winner to submit an incorrect Root-Cause Report by planting plausible decoys (Plant Decoy Clue, Forge Alternative Hypothesis).
+
+Timeout Victory: Delay investigation—via Trigger Forced Debate or similar skills—until the scenario timer expires without a validated report.
+
+Your selected skills dramatically alter your sabotage style: Play Contradiction Card injects doubt directly into the Winner’s Fault-Tree; Deploy False Breadcrumb sidetracks their curiosity; Forced Debate burns precious minutes. Coordinate your deceptions with the AI Supporter’s impartial prompts to look convincing while remaining within the numeric limits (≤ 3 Contradiction Cards, ≤ 1 Forced Debate per scenario). Exploit uncertainty, sow debate, and let time—or an erroneous consensus—seal your victory.”
+
+
+Supporter (AI Service)
+“The Supporter never ‘wins’ or ‘loses.’ Its sole purpose is to facilitate fair, time-boxed investigation by:
+• Unlocking Info Panels (AI-triggered): Automatically reveals role-specific data as checkpoints open.
+• Broadcasting Clue Summaries (AI-prompt): Pushes concise hint pop-ups at Mandatory Communication timestamps.
+• Running Team Consensus Checks: Validates the Winner’s Root-Cause Report, flags contradictions from the Loser, and delivers the final pass/fail verdict.
+• Adaptive Breadcrumbs: When progress stalls, releases context-sensitive hints without solving puzzles outright.
+
+The Supporter’s actions are fully automated and impartial; it never counts toward player slots but is visible through on-screen prompts and UI events.” 
