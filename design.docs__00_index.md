@@ -31,6 +31,7 @@
 | Strategic Hint Exchange        | strategic_hint_exchange_v0.1.md | Game Design | 2025-07-01 |  
 | Points, Scoring & Rewards      | points_scoring_rewards_v0.1.md | Game Design | 2025-07-01 |
 | Random Chance Element          | random_chance_element_v0.1.md | Game Design | 2025-07-01 |
+| Feedback & Adaptation Loop | feedback_adaptation_loop_v0.1.md | Game Design & AI Design |  2025-07-01 |
 
 
 
