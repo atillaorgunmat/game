@@ -9,3 +9,15 @@
 | Win Conditions & Goals | win_conditions_goals_v0.1.md | Game Design | 2025-07-01 |
 | Adaptive AI Integration | adaptive_ai_integration_v0.1.md | AI & Game Design | 2025-07-01 |
 | Strategic Player Capabilities | strategic_player_capabilities_v0.1.md | Game Design | 2025-07-01 |
+| Identity & Deduction Mechanics| identity_tables.csv                        | Scenario Design | 2025-07-01   |
+| Identity & Deduction Mechanics| bias_prompts.md                            | Scenario Design | 2025-07-01   |
+| Identity & Deduction Mechanics| clue_bank.md                               | Scenario Design | 2025-07-01   |
+| Identity & Deduction Mechanics| scenario_meta.yaml                         | Scenario Design | 2025-07-01   |
+| Identity & Deduction Mechanics| narrative_overview.md                      | Scenario Design | 2025-07-01   |
+| Gameplay Dynamics              | competitive_cooperative_dynamic_v0.2.md   | Game Design     | 2025-07-01   |
+| Roles & Perspectives           | roles_perspectives_v0.2.md                | Game Design     | 2025-07-01   |
+| Strategic Capabilities         | strategic_player_capabilities_v0.2.md     | Game Design     | 2025-07-01   |
+| Win Conditions & Goals         | win_conditions_goals_v0.2.md              | Game Design     | 2025-07-01   |
+| Narrative Mechanics            | curiosity_driven_narrative_v0.2.md        | Narrative Design| 2025-07-01   |
+| AI Integration                 | adaptive_ai_integration_v0.2.md           | AI & Game Design| 2025-07-01   |
+| Communication Fallacies        | communication_fallacy_triggers_v0.1.md    | Narrative Design| 2025-07-01   |

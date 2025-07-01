@@ -1,5 +1,5 @@
 {\rtf1\ansi\ansicpg1252\cocoartf2822
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 AppleColorEmoji;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
@@ -17,7 +17,9 @@ related_docs: [Unique_Ability_Lists.txt, roles_perspectives_v0.1.md, adaptive_ai
 ## Explicit Player Capabilities Overview\
 Clearly define strategic intent and optimal use for each role-specific ability:\
 \
-### \uc0\u55357 \u56633  Winner Abilities\
+### 
+\f1 \uc0\u55357 \u56633 
+\f0  Winner Abilities\
 | Ability                      | Strategic Intent                               | Optimal Use Timing                   |\
 |------------------------------|-----------------------------------------------|--------------------------------------|\
 | Map Causes                   | Structure RCA explicitly                      | Early & Mid-game to maintain clarity |\
@@ -25,8 +27,11 @@ Clearly define strategic intent and optimal use for each role-specific ability:\
 | Trigger Sequential Reveal    | Accelerate explicit clue discovery             | Stalled analysis phases              |\
 | Initiate Team Consensus      | Secure explicit team alignment                 | Before final submission              |\
 | Submit RCA Report            | Achieve explicit victory condition             | Final game phase (last-minute confirmation) |\
+| Register Identity Guess | Explicitly log a hypothesis about opponent\'92s hidden affiliation; AI validates at end | Optimal in analysis phase |\
 \
-### \uc0\u55357 \u56632  Loser Abilities\
+### 
+\f1 \uc0\u55357 \u56632 
+\f0  Loser Abilities\
 | Ability                      | Strategic Intent                               | Optimal Use Timing                   |\
 |------------------------------|-----------------------------------------------|--------------------------------------|\
 | Play Contradiction Card      | Create explicit uncertainty                    | Mid-game to disrupt RCA clarity      |\
@@ -34,8 +39,12 @@ Clearly define strategic intent and optimal use for each role-specific ability:\
 | Deploy False Breadcrumb      | Divert attention explicitly                    | Whenever Winner gains momentum       |\
 | Forge Alternative Hypothesis | Confuse team consensus explicitly              | Late mid-game, pre-submission        |\
 | Trigger Forced Debate        | Stall explicitly and strategically             | Near critical consensus checkpoints  |\
+| Register Identity Guess | Explicitly log a hypothesis about opponent\'92s hidden affiliation; AI validates at end | Optimal in analysis phase |\
 \
-### \uc0\u55357 \u56633  Supporter (AI) Abilities\
+\
+### 
+\f1 \uc0\u55357 \u56633 
+\f0  Supporter (AI) Abilities\
 | Ability                      | Strategic Intent                               | Optimal AI Trigger Conditions        |\
 |------------------------------|-----------------------------------------------|--------------------------------------|\
 | Unlock Info Panel            | Facilitate clear and structured investigation  | Automatically at key checkpoints     |\
@@ -43,6 +52,8 @@ Clearly define strategic intent and optimal use for each role-specific ability:\
 | Confirm Team Consensus       | Ensure explicit consensus validity             | Upon RCA submission                  |\
 | Upload Evidence              | Support structured RCA mapping explicitly      | When players register hypotheses     |\
 | Highlight Inconsistency      | Maintain fairness explicitly                   | Upon contradiction submissions       |\
+| Register Identity Guess | Explicitly log a hypothesis about opponent\'92s hidden affiliation; AI validates at end | Optimal in analysis phase |\
+\
 \
 ## Explicit Alignment with Personas\
 | Persona                | Capability Alignment                           | Explicit Justification |\
@@ -50,6 +61,7 @@ Clearly define strategic intent and optimal use for each role-specific ability:\
 | Curious Collaborator   | Broadcast Clue Summary, Adaptive Breadcrumbs    | Encourages inclusive participation  |\
 | Analytical Achiever    | Map Causes, Register Hypothesis                 | Intellectual mastery & structured validation |\
 | Social Trickster       | Contradiction Card, Forced Debate               | Enables strategic deception, spotlight |\
+\
 \
 ## Explicit Integration with AI Adaptive Systems\
 - **Adaptive Breadcrumbs** explicitly respond to player capability usage patterns.\

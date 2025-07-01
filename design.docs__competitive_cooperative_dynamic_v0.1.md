@@ -22,7 +22,10 @@ related_docs: [Game_Pillars.txt, player_personas.md, curiosity_driven_narrative_
 |-----------------------------|---------------------------------------------|--------------------------------------------|\
 | **Initial Reveal**          | Cooperative (full-team introduction)         | Ensures inclusive start, sets collaboration tone |\
 | **Team Analysis & Hypothesis** | Competitive + Cooperative (rivalry-driven clue analysis + mandatory comms) | Balances rivalry with structured collaboration |\
-| **Mid-Game Cooperative Phase** | Fully Cooperative (mandatory global puzzle solving) | Provides social relief, deepens interpersonal bonds |\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 | **Team Analysis & Hypothesis** | Competitive + Cooperative + Identity Deduction | Adds strategic deduction about opponent identities |\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 | **Mid-Game Cooperative Phase** | Fully Cooperative (mandatory global puzzle solving) | Provides social relief, deepens interpersonal bonds |\
 | **RCA Verification**        | Competitive (each side drives toward their win state) | Heightens competitive tension, intellectual challenge |\
 | **Final Submission**        | Competitive (winner-takes-all climax)       | Dramatic, satisfying resolution |\
 \

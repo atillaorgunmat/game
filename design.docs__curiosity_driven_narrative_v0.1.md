@@ -26,9 +26,13 @@ related_docs: [player_personas.md, Game_Pillars.txt, Unique_Ability_Lists.txt, s
 | **Final Submission**  | Dramatic climax and resolution reveal.      | Explicit confirmation of the truth, payoff. |\
 \
 ## Explicit Curiosity Mechanics Integration\
-- **Sequential Curiosity Reveal System**:contentReference[oaicite:3]\{index=3\}\
-- **Adaptive Breadcrumb System**:contentReference[oaicite:4]\{index=4\}\
-- **Contradiction Cards** (Loser role) explicitly designed to trigger questioning and curiosity:contentReference[oaicite:5]\{index=5\}\
+- **Sequential Curiosity Reveal System**\
+- **Adaptive Breadcrumb System**\
+- **Contradiction Cards** (Loser role) explicitly designed to trigger questioning and curiosity\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 - **Identity deduction subplot explicitly encourages curiosity-driven exploration of players' hidden identities.\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \
 \
 ## Alignment with Player Personas\
 | Persona              | Explicit Narrative Element       | Justification             |\

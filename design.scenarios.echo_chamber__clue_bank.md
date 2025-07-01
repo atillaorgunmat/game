@@ -1,0 +1,2 @@
+- <IDENTITY_CLUE_1>: Leaked internal memo referencing time-zone.
+- <IDENTITY_CLUE_2>: Analyst’s writing style matches previous report.
