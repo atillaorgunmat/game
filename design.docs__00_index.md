@@ -34,6 +34,7 @@
 | Feedback & Adaptation Loop     | feedback_adaptation_loop_v0.1.md | Game Design & AI Design |  2025-07-01 |
 | User Interface & Delivery.     | user_interface_delivery_v0.1.md | UX & Game Design | 2025-07-01 |
 | Mid-Game Twist or Climax       | mid_game_twist_climax_v0.1.md | Game & Narrative Design | 2025-07-01 |
+| End-Game Final Challenge       | end_game_final_challenge_v0.1.md | Game & Narrative Design | 2025-07-01 |
 
 
 
