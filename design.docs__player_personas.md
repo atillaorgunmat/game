@@ -4,7 +4,7 @@ version: 1.0
 owner: UX Research
 tags: [persona, research]
 updated: 2025-07-01
-related_docs: [design.docs__motivation_brief_v0.1.md]
+related_docs: [design.docs__motivation_brief_v0.1.md] (See social_inclusion_brief_v0.1.md for details on how each persona’s device and accessibility needs are explicitly addressed.)
 ---
 
 ## Curious Collaborator
