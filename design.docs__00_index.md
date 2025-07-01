@@ -28,9 +28,10 @@
 | Communication Mechanics        | communication_mechanics_v0.1.md | Game Design & UX Research |  2025-07-01   |
 | AI Supporter Capabilities      | ai_supporter_capabilities_v0.1.md | AI & Game Design | 2025-07-01   |
 | Logical Chain Puzzles & RCA Challenges | logical_chain_puzzles_rca_challenges_v0.1.md | Game Design | 2025-07-01   |
-| Strategic Hint Exchange        | strategic_hint_exchange_v0.1.md | Game Design | YYYY-MM-DD |
- Design | 2025-07-01   |
-| Points, Scoring & Rewards      | points_scoring_rewards_v0.1.md | Game Design | YYYY-MM-DD | Design | 2025-07-01   |
+| Strategic Hint Exchange        | strategic_hint_exchange_v0.1.md | Game Design | 2025-07-01 |  
+| Points, Scoring & Rewards      | points_scoring_rewards_v0.1.md | Game Design | 2025-07-01 |
+| Random Chance Element          | random_chance_element_v0.1.md | Game Design | 2025-07-01 |
+
 
 
 
