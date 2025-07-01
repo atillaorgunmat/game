@@ -24,5 +24,7 @@
 | Cooperative Challenge Phases   | cooperative_challenge_phases_v0.1.md      | Game Design | 2025-07-01   |
 | Competitive Challenges         | competitive_challenge_phases_v0.1.md      | Game Design | 2025-07-01   |
 | Game Progression & Pacing      | game_progression_pacing_v0.1.md           | Game Design | 2025-07-01   |
+| Tutorial & Onboarding          | tutorial_onboarding_v0.1.md | Game Design & UX Research |2025-07-01   |
+
 
 
