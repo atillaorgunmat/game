@@ -26,6 +26,7 @@
 | Game Progression & Pacing      | game_progression_pacing_v0.1.md           | Game Design | 2025-07-01   |
 | Tutorial & Onboarding          | tutorial_onboarding_v0.1.md | Game Design & UX Research |2025-07-01   |
 | Communication Mechanics        | communication_mechanics_v0.1.md | Game Design & UX Research | 2025-07-01   |
+| AI Supporter Capabilities      | ai_supporter_capabilities_v0.1.md | AI & Game Design |2025-07-01   |
 
 
 
