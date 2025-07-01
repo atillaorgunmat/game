@@ -5,4 +5,6 @@
 | Narrative| curiosity_driven_narrative_v0.1.md | Narrative Design | 2025-07-01 |
 | Competitive-Cooperative Dynamic | competitive_cooperative_dynamic_v0.1.md | Game Design | 2025-07-01 |
 | Roles & Perspectives | roles_perspectives_v0.1.md | Game Design | 2025-07-01 |
+| Team Formation & Size | team_formation_size_v0.1.md | Game Design | YYYY-MM-DD |
+
 
