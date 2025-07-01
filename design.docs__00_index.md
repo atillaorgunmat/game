@@ -22,4 +22,5 @@
 | AI Integration                 | adaptive_ai_integration_v0.2.md           | AI & Game Design| 2025-07-01   |
 | Communication Fallacies        | communication_fallacy_triggers_v0.1.md    | Narrative Design| 2025-07-01   |
 | Cooperative Challenge Phases   | cooperative_challenge_phases_v0.1.md      | Game Design | 2025-07-01   |
+| Competitive Challenges         | competitive_challenge_phases_v0.1.md      | Game Design | 2025-07-01   |
 
