@@ -8,5 +8,4 @@
 | Team Formation & Size | team_formation_size_v0.1.md | Game Design | 2025-07-01 |
 | Win Conditions & Goals | win_conditions_goals_v0.1.md | Game Design | 2025-07-01 |
 | Adaptive AI Integration | adaptive_ai_integration_v0.1.md | AI & Game Design | 2025-07-01 |
-
-
+| Strategic Player Capabilities | strategic_player_capabilities_v0.1.md | Game Design | 2025-07-01 |
