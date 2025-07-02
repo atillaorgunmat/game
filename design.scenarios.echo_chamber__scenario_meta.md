@@ -1,0 +1,36 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f0\fs24 \cf0 \expnd0\expndtw0\kerning0
+code: EC-001\
+title: Echo Chamber \'96 Disinformation War-Room\
+default_timer: 20m\
+min_players: 2\
+max_players: 4\
+pillar_ref:\
+  - curiosity\
+  - collaboration\
+  - rca\
+identity_guess: true\
+max_identity_guesses: 3\
+\
+# Explicit configuration for initial Fallacy Identification Round\
+init_round: fallacy_identification_v1\
+fallacy_pool:\
+  - Anchoring\
+  - Authority Bias\
+  - Strawman\
+  - Ad Hominem\
+  - Confirmation Bias\
+  - Slippery Slope\
+  - False Dilemma\
+init_round_rules: >\
+  Players privately tag the fallacy in each of 7 statements;\
+  highest correct = Winner, lowest = Loser;\
+  ties resolved by sudden-death extra statement.\
+}
