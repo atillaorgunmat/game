@@ -28,6 +28,9 @@ Clearly define explicit mechanisms for scoring points, tracking performance, and
 | False Brief Exposed         | Winner +15 / Loser –10                  | Loser's preloaded false brief explicitly identified and discredited |
 | Deceptive Post-Reflection Exposed | Winner +10 / Loser –5                | Loser's false summary or reflection exposed by Winner in Post-Discussion phase |
 | Truthful Post-Reflection Confirmed | +5 points (role who posted)         | Player’s post-discussion summary confirmed accurate during RCA |
+| Rapid Rebuttal (new)   | +15 pts / –5 pts        | Explicit success/failure of immediate rebuttal |
+| Evidence Snapshot (new)| +10 pts protection bonus| Explicitly protects one clue for two phases  |
+| Data Deep-Dive (new)   | +10 pts                 | Explicitly bonus for accurate identity guess |
 
 
 ---

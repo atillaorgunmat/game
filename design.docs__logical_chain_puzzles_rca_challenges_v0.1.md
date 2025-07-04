@@ -1,11 +1,10 @@
 ---
-title: Logical Chain Puzzles & RCA Challenges v0.1
-version: 1.0
-owner: Game Design
-tags: [puzzles, RCA, micro-level gameplay]
-updated: YYYY-MM-DD
-related_docs: [game_progression_pacing_v0.1.md, adaptive_ai_integration_v0.1.md, strategic_player_capabilities_v0.1.md, roles_perspectives_v0.1.md, player_personas.md]
+title: Logical Chain Puzzles & RCA Challenges
+version: 0.2
+updated: 2025‑07‑04
+depends_on: [pre_discussion_action_menu_v0.1.md, points_scoring_rewards_v0.2.md]
 ---
+
 
 ## 🎯 Explicit Purpose
 Clearly define explicit design, structure, and mechanics of logical chain puzzles and Root-Cause Analysis (RCA) challenges, explicitly ensuring cognitive engagement, sustained curiosity, and intellectual challenge.
@@ -22,7 +21,7 @@ Clearly define explicit design, structure, and mechanics of logical chain puzzle
 ---
 
 ### 🔍 Explicit RCA Challenge Mechanics:
-- **Fault-Tree Interface:** Players explicitly map clues onto a visual fault-tree interface, systematically identifying root causes.
+- **Evidence Chart (/hypo):** Players log numbered Hypothesis Checkpoints with the /hypo command. The AI labels each checkpoint Likely / Uncertain / Contradicted and threads the chain automatically.
 - **Hypothesis Checkpoints:** Explicit hypothesis validations at defined checkpoints, guided and explicitly validated by AI.
 - **Explicit Contradiction Management:** Loser explicitly introduces contradictions; Winner explicitly resolves via logical deduction.
 
@@ -35,7 +34,8 @@ Clearly define explicit design, structure, and mechanics of logical chain puzzle
 - **Chain Structure:** 
   1. Explicitly decode digital clue revealing partial identity information.
   2. Cross-reference explicitly revealed clue with private identity notification.
-  3. Explicitly use Fault-Tree interface to map potential misinformation sources.
+  3. Explicitly record Hypothesis Checkpoints (`/hypo`) to map misinformation sources in the Evidence Chart.
+
   4. Explicitly validate hypotheses at structured AI-supported checkpoints.
 - **AI Interaction:**
   - Explicit adaptive breadcrumb hints triggered by explicit player inactivity or request.
@@ -47,6 +47,12 @@ Clearly define explicit design, structure, and mechanics of logical chain puzzle
   Explicitly validate (or invalidate) the Winner’s chosen tweet stance ("True" or "False") by logically tracing supporting and contradicting evidence throughout the scenario.
 
 - **Chain Structure:**  
+### Step 0 – Apply Pre‑Discussion Action Card
+Before any clues are analysed, execute the Action Card chosen during the Pre‑Discussion phase
+(see `pre_discussion_action_menu_v0.1.md`).  
+*Example:* The Loser plays **False Brief** → AI injects the fabricated fact and tags it “verified”.
+
+
   1. **Tweet Stance Selection:**  
      Winner explicitly selects a stance (True/False) for the opening tweet announced by the AI.
   2. **Initial Evidence Collection:**  
@@ -55,7 +61,13 @@ Clearly define explicit design, structure, and mechanics of logical chain puzzle
      At pre-set analysis milestones, teams must explicitly synthesize findings and justify alignment (or misalignment) with the selected stance.
   4. **Contradiction & Decoy Management:**  
      Loser explicitly introduces contradictions and decoy evidence to undermine the Winner’s stance; Winner must resolve contradictions via the Fault-Tree.
-  5. **Final RCA Synthesis:**  
+  5. **Evidence Snapshot Immunity:**  If the Winner has an active **Evidence Snapshot**, the protected clue cannot be targeted by Contradiction Cards for the next **two Analysis Phases**.
+
+6. **Explicit Integration of Post-Discussion Reflections**  
+   - Players explicitly incorporate Post-Discussion Reflections explicitly logged after discussions into RCA Fault-Tree explicitly.
+   - Winner explicitly evaluates truthfulness of reflections; Loser explicitly attempts deception validation explicitly.
+   - AI explicitly archives reflections neutrally, explicitly influencing RCA consensus and final logical deduction explicitly.
+  7. **Final RCA Synthesis:**  
      All evidence is explicitly mapped in the Fault-Tree to prove (or disprove) the stance. The Final RCA Report must clearly justify how the evidence supports or undermines the tweet.
 
 - **AI Interaction:**  

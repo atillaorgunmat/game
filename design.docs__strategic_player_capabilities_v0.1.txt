@@ -11,16 +11,16 @@ related_docs: [Unique_Ability_Lists.txt, roles_perspectives_v0.1.md, adaptive_ai
 Clearly define strategic intent and optimal use for each role-specific ability:
 
 ### 🔹 Winner Abilities
-| Ability                      | Strategic Intent                               | Optimal Use Timing                   |
-|------------------------------|-----------------------------------------------|--------------------------------------|
-| Map Causes                   | Structure RCA explicitly                      | Early & Mid-game to maintain clarity |
-| Register Hypothesis          | Validate and secure evidence explicitly        | Checkpoints (mid-game & verification phase) |
-| Trigger Sequential Reveal    | Accelerate explicit clue discovery             | Stalled analysis phases              |
-| Initiate Team Consensus      | Secure explicit team alignment                 | Before final submission              |
-| Submit RCA Report            | Achieve explicit victory condition             | Final game phase (last-minute confirmation) |
-| Register Identity Guess | Explicitly log a hypothesis about opponent’s hidden affiliation; AI validates at end | Optimal in analysis phase |
-| Baseline Verification | Explicitly challenge and verify a Pre-Discussion Statement’s truth status | Explicitly immediately after discussion phases |
 
+| Ability                   | Strategic Intent                                         | Optimal Use Timing                 |
+|---------------------------|----------------------------------------------------------|------------------------------------|
+| Rapid Rebuttal    | Immediately refute one false claim explicitly introduced by Loser. Successful rebuttals grant +15 pts, failures -5 pts. | Explicitly after a contradiction introduced by Loser. Once per analysis phase. |
+| Evidence Snapshot *(new)* | Explicitly request AI to protect one crucial truthful evidence node from sabotage for 2 phases. | When explicit protection of a critical clue is needed. Twice per scenario. |
+| Data Deep-Dive  | Explicitly receive private detailed identity-related info, boosting Identity Guess bonus (+10 pts if correct). | Explicitly once per scenario during identity deduction phases. |
+| Register Hypothesis       | Explicitly validate provisional RCA statements.          | Explicitly at structured checkpoints. |
+| Trigger Sequential Reveal | Explicitly accelerate clue discovery.                    | Explicitly during stalled investigation phases. |
+| Initiate Team Consensus   | Explicitly secure team alignment on RCA.                 | Explicitly prior to final submission. |
+| Verify Baseline Claim     | Explicitly challenge Loser's Preloaded False Brief.      | Explicitly after the Loser's preloaded misinformation. Once per round. |
 
 ### 🔸 Loser Abilities
 | Ability                      | Strategic Intent                               | Optimal Use Timing                   |
@@ -50,9 +50,9 @@ Clearly define strategic intent and optimal use for each role-specific ability:
 ## Explicit Alignment with Personas
 | Persona                | Capability Alignment                           | Explicit Justification |
 |------------------------|-------------------------------------------------|------------------------|
-| Curious Collaborator   | Broadcast Clue Summary, Adaptive Breadcrumbs    | Encourages inclusive participation  |
-| Analytical Achiever    | Map Causes, Register Hypothesis                 | Intellectual mastery & structured validation |
-| Social Trickster       | Contradiction Card, Forced Debate               | Enables strategic deception, spotlight |
+| Curious Collaborator   | Key Abilities (see Unique_Ability_Lists.md for full list)    | Encourages inclusive participation  |
+| Analytical Achiever    | Key Abilities (see Unique_Ability_Lists.md for full list)                 | Intellectual mastery & structured validation |
+| Social Trickster       | Key Abilities (see Unique_Ability_Lists.md for full list)     | Enables strategic deception, spotlight |
 
 
 ## Explicit Integration with AI Adaptive Systems

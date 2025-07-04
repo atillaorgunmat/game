@@ -12,7 +12,14 @@ Clearly define explicit gameplay objectives and motivations for each role.
 
 🔹 Winner (Positive Perspective)
 - Objective: Submit validated Root-Cause Report.
-- Key Abilities: Map Causes, Register Hypothesis, Sequential Reveal.
+- Key Abilities: 
+  - Rapid Rebuttal
+  - Evidence Snapshot
+  - Data Deep-Dive
+  - Register Hypothesis
+  - Trigger Sequential Reveal
+  - Initiate Team Consensus
+  - Verify Baseline Claim
 - Explicit Deduction Mechanic: May explicitly perform one "Register Identity Guess" per analysis phase to deduce the Loser's hidden affiliation. Correct guesses significantly enhance RCA success.
 - Motivations: Intellectual satisfaction, challenge, mastery.
 - Persona Alignment: Analytical Achiever (primary), Curious Collaborator (secondary).
