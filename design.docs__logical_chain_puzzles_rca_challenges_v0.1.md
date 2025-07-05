@@ -142,3 +142,16 @@ Before any clues are analysed, execute the Action Card chosen during the Pre‑D
 - Explicit RCA clarity and usability explicitly rated ≥ 4.5/5.
 - Explicit persona-aligned puzzle satisfaction explicitly ≥ 4.5/5 across all player types.
 
+## Evidence Match Mini-Round (v0.2)
+
+**Purpose:**  
+Enable precise Root-Cause Analysis by directly linking tweet claims to specific pieces of article-based evidence.
+
+**Gameplay Flow:**  
+
+| Step | Actor | Action | Duration |
+|------|-------|--------|----------|
+| 1 | **AI Supporter** | Presents tweet and three labeled evidence snippets (**A**, **B**, **C**). | - |
+| 2 | **Both teams** | Conduct private whisper discussion to evaluate evidence. | 30 seconds |
+| 3 | **Winner** | Uses `/evidence A|B|C` command to lock in the team's selection. | 15 seconds |
+| 4 | **Loser** *(optional)* | Plays `/decoylink URL` (usable once per match) to introduc
